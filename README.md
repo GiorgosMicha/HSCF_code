@@ -1,2 +1,2 @@
-# HSCF_code
-Notebook for obtaining density profiles in polytropic stars
+# HSCF_method
+Notebooks for obtaining density profiles in polytropic stars and calculating other physical parameters
